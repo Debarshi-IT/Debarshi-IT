@@ -1,6 +1,7 @@
-## Hi there 👋
+## Hi there DEBARSHI 👋
 
-**Debarshi-IT/Debarshi-IT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![ship](https://github.com/user-attachments/assets/c7f9d1e7-1a7a-49b8-8f3a-71bd37306423)
 
 Here are some ideas to get you started:
 
