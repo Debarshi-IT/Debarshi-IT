@@ -60,5 +60,6 @@
 <br>
 
 
+![snake gif](https://github.com/Debarshi-IT/Debarshi-IT/blob/output/github-contribution-grid-snake-dark.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
